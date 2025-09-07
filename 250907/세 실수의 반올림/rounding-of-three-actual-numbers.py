@@ -1,2 +1,4 @@
-num1, num2 = map(int, input().split())
-print("두 수의 합은", num1 + num2, "입니다.")
+a = float(input())
+b = float(input())
+c = float(input())
+print(f'{a:.3f}\n{b:.3f}\n{c:.3f}')
