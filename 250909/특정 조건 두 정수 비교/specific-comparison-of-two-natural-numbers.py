@@ -1,5 +1,10 @@
 A,B = map(int, input().split())
-if A<B or A == B:
+if A<B:
     print(1)
 else:
     print(0)
+if A==B:
+    print(1)
+else:
+    print(0)
+
