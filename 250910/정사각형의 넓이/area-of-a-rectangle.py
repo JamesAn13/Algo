@@ -1,5 +1,5 @@
 n = int(input())
-s = (n*n)/2
+s = (n*n)
 if n < 5:
     print('tiny')
 else:
