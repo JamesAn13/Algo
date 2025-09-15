@@ -1,1 +1,1 @@
-print('He says \"It\'s a rally simple sentence/".')
+print('He says \"It\'s a really simple sentence/".')
