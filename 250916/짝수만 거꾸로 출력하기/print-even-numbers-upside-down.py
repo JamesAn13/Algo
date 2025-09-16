@@ -8,4 +8,4 @@ for x in a:
 b.reverse()
 
 for x in b:
-    print(x)
+    print(x, end = ' ')
