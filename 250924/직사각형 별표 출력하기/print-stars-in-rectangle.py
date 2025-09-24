@@ -2,4 +2,5 @@ a, b = map(int, input().split())
 for j in range (a):
     for i in range(b):
         print('*', end = ' ')
-    print('', end = '\n')
+    # print('', end = '\n')
+    print()
