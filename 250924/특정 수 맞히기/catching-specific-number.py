@@ -1,5 +1,5 @@
 i = 0
-while i == 25:
+while i != 25:
     a = int(input())
     if a < 25:
         print("Higher")
